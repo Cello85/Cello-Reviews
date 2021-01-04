@@ -12,6 +12,7 @@ This is a collection of reviews that I've written throughout the years, starting
  * [x] Car Seat Headrest
  * [x] Tool (might revisit?)
  * [x] The Mars Volta
+ * [x] 65daysofstatic + A Year of Wreckage
  * [x] System Of A Down
  * [x] Steven Wilson
  * [x] Homestuck (will revisit)
