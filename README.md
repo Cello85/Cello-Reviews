@@ -5,50 +5,53 @@ After deciding that doing a Neocities would probably not be a good idea since I 
 This is a collection of reviews that I've written throughout the years, starting on 2019 and continuing on. Including with these reviews are charts and clean charts for those who wish to follow my steps.
 
 ## Currently doing:
- * [] Porcupine Tree
- * [] King Gizzard & The Lizard Wizard
+ * [] King Gizzard & The Lizard Wizard*
+ * [] Porcupine Tree*
  
 ## Have done:
- * [x] Car Seat Headrest
- * [x] Tool (might revisit?)
- * [x] The Mars Volta
  * [x] 65daysofstatic + A Year of Wreckage
- * [x] System Of A Down
- * [x] Steven Wilson
+ * [x] Car Seat Headrest
  * [x] Homestuck (will revisit)
+ * [x] System Of A Down
+ * [x] The Mars Volta
+ * [x] Tool (might revisit?)
+ * [x] Steven Wilson
  
 ## On Hold
- * [] Peter Gabriel
- * [] DM DOKURO
- * [] godspeed you! black emperor + Silver Mt. Zion
  * [] Deantoni Parks + We Are Dark Angels
+ * [] DM DOKURO
  * [] El Huervo
+ * [] godspeed you! black emperor + Silver Mt. Zion
  * [] Insane Clown Posse
  * [] MASTER BOOT RECORD + KEYGEN CHURCH
+ * [] Peter Gabriel
  * [] Red Vox
  
 ## To-Do:
  * [] Adrian Belew
+ * [] Altamont + Karma + God
  * [] Aphex Twin
- * [] Cardiacs
- * [] Coheed and Cambria
- * [] Genesis
- * [] Nine Inch Nails
- * [] Sufjan Stevens
- * [] Trent Reznor Soundtracks
- * [] XIU XIU
- * [] Gentle Giant
- * [] Haken
- * [] Glenn Branca
- * [] The Microphones + Mount Eerie
- * [] Tony Levin + Stick Men
  * [] Bass Communion
  * [] Blackfield
+ * [] Cardiacs
+ * [] Coheed and Cambria
  * [] Continuum
- * [] Altamont + Karma + God
+ * [] Genesis
+ * [] Gentle Giant
+ * [] Glenn Branca
+ * [] Haken
  * [] Incredible Expanding Mindfuck
- * [] No-Man
- * [] Storm Corrosion
- * [] Savant
- * [] Osees
+ * [] Machinae Supremacy
  * [] Nervous Young Men
+ * [] Nine Inch Nails
+ * [] No-Man
+ * [] Osee
+ * [] Primus
+ * [] Savant
+ * [] Snarky Puppy
+ * [] Storm Corrosion
+ * [] Sufjan Stevens
+ * [] The Microphones + Mount Eerie
+ * [] Tony Levin + Stick Men
+ * [] Trent Reznor Soundtracks
+ * [] Xiu Xiu
