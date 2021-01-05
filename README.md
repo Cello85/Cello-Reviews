@@ -5,8 +5,8 @@ After deciding that doing a Neocities would probably not be a good idea since I 
 This is a collection of reviews that I've written throughout the years, starting on 2019 and continuing on. Including with these reviews are charts and clean charts for those who wish to follow my steps.
 
 ## Currently doing:
- * [] King Gizzard & The Lizard Wizard
- * [] Porcupine Tree
+ * [ ] King Gizzard & The Lizard Wizard
+ * [ ] Porcupine Tree
  
 ## Have done:
  * [x] 65daysofstatic + A Year of Wreckage
@@ -18,40 +18,40 @@ This is a collection of reviews that I've written throughout the years, starting
  * [x] Steven Wilson
  
 ## On Hold
- * [] Deantoni Parks + We Are Dark Angels
- * [] DM DOKURO
- * [] El Huervo
- * [] godspeed you! black emperor + Silver Mt. Zion
- * [] Insane Clown Posse
- * [] MASTER BOOT RECORD + KEYGEN CHURCH
- * [] Peter Gabriel
- * [] Red Vox
+ * [ ] Deantoni Parks + We Are Dark Angels
+ * [ ] DM DOKURO
+ * [ ] El Huervo
+ * [ ] godspeed you! black emperor + Silver Mt. Zion
+ * [ ] Insane Clown Posse
+ * [ ] MASTER BOOT RECORD + KEYGEN CHURCH
+ * [ ] Peter Gabriel
+ * [ ] Red Vox
  
 ## To-Do:
- * [] Adrian Belew
- * [] Altamont + Karma + God
- * [] Aphex Twin
- * [] Bass Communion
- * [] Blackfield
- * [] Cardiacs
- * [] Coheed and Cambria
- * [] Continuum
- * [] Genesis
- * [] Gentle Giant
- * [] Glenn Branca
- * [] Haken
- * [] Incredible Expanding Mindfuck
- * [] Machinae Supremacy
- * [] Nervous Young Men
- * [] Nine Inch Nails
- * [] No-Man
- * [] Osee
- * [] Primus
- * [] Savant
- * [] Snarky Puppy
- * [] Storm Corrosion
- * [] Sufjan Stevens
- * [] The Microphones + Mount Eerie
- * [] Tony Levin + Stick Men
- * [] Trent Reznor Soundtracks
- * [] Xiu Xiu
+ * [ ] Adrian Belew
+ * [ ] Altamont + Karma + God
+ * [ ] Aphex Twin
+ * [ ] Bass Communion
+ * [ ] Blackfield
+ * [ ] Cardiacs
+ * [ ] Coheed and Cambria
+ * [ ] Continuum
+ * [ ] Genesis
+ * [ ] Gentle Giant
+ * [ ] Glenn Branca
+ * [ ] Haken
+ * [ ] Incredible Expanding Mindfuck
+ * [ ] Machinae Supremacy
+ * [ ] Nervous Young Men
+ * [ ] Nine Inch Nails
+ * [ ] No-Man
+ * [ ] Osee
+ * [ ] Primus
+ * [ ] Savant
+ * [ ] Snarky Puppy
+ * [ ] Storm Corrosion
+ * [ ] Sufjan Stevens
+ * [ ] The Microphones + Mount Eerie
+ * [ ] Tony Levin + Stick Men
+ * [ ] Trent Reznor Soundtracks
+ * [ ] Xiu Xiu
