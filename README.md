@@ -5,8 +5,8 @@ After deciding that doing a Neocities would probably not be a good idea since I 
 This is a collection of reviews that I've written throughout the years, starting on 2019 and continuing on. Including with these reviews are charts and clean charts for those who wish to follow my steps.
 
 ## Currently doing:
- * [] King Gizzard & The Lizard Wizard*
- * [] Porcupine Tree*
+ * [] King Gizzard & The Lizard Wizard
+ * [] Porcupine Tree
  
 ## Have done:
  * [x] 65daysofstatic + A Year of Wreckage
