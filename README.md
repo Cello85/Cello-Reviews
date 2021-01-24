@@ -43,6 +43,7 @@ This is a collection of reviews that I've written throughout the years, starting
  * [ ] Glenn Branca
  * [ ] Haken
  * [ ] Incredible Expanding Mindfuck
+ * [ ] King Crimson
  * [ ] Machinae Supremacy
  * [ ] Nervous Young Men
  * [ ] Nine Inch Nails
